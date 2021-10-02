@@ -1,0 +1,19 @@
+{
+  "chromeWebSecurity": false,
+  "baseUrl": "https://www.flipkart.com/",
+  "webDriver": "'http://webdriveruniversity.com/",
+  "viewportWidth": 1000,
+  "viewportHeight": 660,
+  "env": {
+    "youtubeExplore": "https://www.youtube.com/feed/explore",
+    "youtube": "https://www.youtube.com/",
+    "amazon": "https://www.amazon.in/",
+    "flipkart": "https://www.flipkart.com/",
+    "email": "sonurprajapati2000@gmail.com",
+    "pass": "Anon@123",
+    "baseUrl": "https://www.flipkart.com/",
+    "webDriver": "http://webdriveruniversity.com/"
+
+    
+  }
+}

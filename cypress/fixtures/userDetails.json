@@ -1,0 +1,11 @@
+{
+    "fname": "Sonu",
+    "lname": "Prajapati",
+    "email": "hello@gmail.com",
+    "comment": "Nothing",
+    "exploreUrl": "div#destination-buttons > ytd-destination-button-renderer.style-scope.ytd-destination-shelf-renderer",
+    "emailClick": "div.css-901oao > input.r-30o5oe[name='session[username_or_email]'",
+    "passClick": "div.css-901oao > input.r-30o5oe[name='session[password]']",
+    "mobileProduct": "div.a-size-base > a.a-size-base > span.a-price > span[aria-hidden='true'] > span.a-price-whole",
+"flipProd": "a[href='/clothing-and-accessories/pr?sid=clo&p[]=facets.ideal_for%255B%255D%3DBoys&p[]=facets.ideal_for%255B%255D%3DBoys%2B%2526%2BGirls&p[]=facets.ideal_for%255B%255D%3DBaby%2BBoys%2B%2526%2BBaby%2BGirls&p[]=facets.ideal_for%255B%255D%3DBaby%2BBoys&otracker=categorytree']"
+}
